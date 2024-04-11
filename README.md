@@ -6,9 +6,9 @@
     <a href="https://www.instagram.com/iismail_ba"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-🌟 Leveraging data-driven insights to optimize business processes and make informed decisions is my passion. <br>
-🚀 Fluent in transforming raw data into actionable insights that propel businesses forward. <br>
-🎯 Ask me anything about BI tools, SQL queries, or data visualization techniques. <br>
+🌟 Leveraging data-driven insights to optimize business processes and make informed decisions is my passion 🌟<br>
+🚀 Fluent in transforming raw data into actionable insights that propel businesses forward 🚀 <br>
+🎯 Ask me anything about BI tools, SQL queries, or data visualization techniques 🎯 <br>
 
 ##### Languages I use
 
