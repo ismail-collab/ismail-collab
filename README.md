@@ -6,9 +6,7 @@
     <a href="https://www.instagram.com/iismail_ba"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-🌟 Leveraging data-driven insights to optimize business processes and make informed decisions is my passion. <br>
-🚀 Fluent in transforming raw data into actionable insights that propel businesses forward. <br>
-🎯 Ask me anything about BI tools, SQL queries, or data visualization techniques. <br>
+🚀 I'm deeply passionate about the realm of IT and thrive on the thrill of new technologies. Specializing in data management and IT project oversight, I'm on a mission to turn chaos into clarity and data into decisions <br>
 
 ##### Languages I use
 
