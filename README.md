@@ -6,7 +6,9 @@
     <a href="https://www.instagram.com/iismail_ba"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-🚀 I'm deeply passionate about the realm of IT and thrive on the thrill of new technologies. <br> 
+🌟 Enthusiastic IT professional with a passion for technology. <br> 
+🔍 Specialized in data science. <br> 
+💡 Dedication to continuous learning fuels drive to stay updated with the latest trends. <br> 
 
 ##### Languages I use
 
