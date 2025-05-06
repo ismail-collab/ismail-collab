@@ -31,8 +31,4 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-222222?style=flat&logo=spring&logoColor=6DB33F)
 
 
-<h2 align="center">Support My Work 🌟</h2>
-<p align="center">
-    <a href="https://donate.stripe.com/cN27ticV78CBgmYeUV"><img src="https://img.shields.io/badge/Donate-%23E4415F?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate"/></a>
-</p>
 
