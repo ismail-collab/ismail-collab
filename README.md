@@ -7,7 +7,6 @@
 </p>
 
 🌟 Enthusiastic IT professional with a passion for technology. <br> 
-🔍 Specialized in data science. <br> 
 💡 Dedication to continuous learning fuels drive to stay updated with the latest trends. <br> 
 
 ##### Languages I use
